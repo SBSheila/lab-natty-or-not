@@ -18,7 +18,5 @@ Primeiro escolhi um consteudo que tem sido discutido em meu trabalho. Depois sol
 ## 🚀 Resultados
 como resultado produzi um podcast amigável que trata o tema com leveza e nos leva a refletir.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
