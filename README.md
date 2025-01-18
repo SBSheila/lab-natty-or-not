@@ -17,6 +17,8 @@ Primeiro escolhi um consteudo que tem sido discutido em meu trabalho. Depois sol
 
 ## 🚀 Resultados
 como resultado produzi um podcast amigável que trata o tema com leveza e nos leva a refletir.
+Disponível em: https://drive.google.com/file/d/1Po-poDiLDVSS96Qj4JRfH_kIvmD-_f1u/view?usp=drive_link
+
 
 
 
